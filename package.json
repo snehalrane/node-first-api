@@ -1,0 +1,15 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "first api ",
+  "main": "app.js",
+  "scripts": {
+    "run": "app.js"
+  },
+  "type": "module",
+  "author": "snehal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
